@@ -1,4 +1,4 @@
-package gym.shark.clase.pkg11.pkg7;
+package gym;
 public class Empleado {
     public String nombre;
     public String apellido;

@@ -1,4 +1,6 @@
 package gym;
+import javax.swing.JOptionPane;
+
 public class Socio {
 public String nombre;
 public String apellido;
@@ -62,6 +64,7 @@ public String planDeEntrenamiento;
         this.planDeEntrenamiento = planDeEntrenamiento;
     }
 
+    
     public Socio(String nombre, String apellido, int DNI, int edad, int peso, int altura, String planDeEntrenamiento) {
         this.nombre = nombre;
         this.apellido = apellido;
@@ -71,14 +74,11 @@ public String planDeEntrenamiento;
         this.altura = altura;
         this.planDeEntrenamiento = planDeEntrenamiento;
     }
-
-    public void registrarSocio(){
-        
-    }
     
-    public void mostrarSocios(){
-        
+    public void registrarSocio(){
+   
     }
+   
     
     public void editarSocio(){
         
