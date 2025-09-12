@@ -1,8 +1,4 @@
 package gym;
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
 public class Socio {
 public String nombre;
 public String apellido;
