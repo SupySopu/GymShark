@@ -1,5 +1,4 @@
 package gym;
-import javax.swing.JOptionPane;
 
 public class Socio {
 public String nombre;
