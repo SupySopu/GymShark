@@ -25,7 +25,7 @@ public class Main {
                             + "2 - Mostrar socios\n"
                             + "3 - Buscar socio"));
                     
-                    switch(opcion_submenu_socios
+                    switch(opcion_submenu_socios) {
                             
                         // Ingresar socios
                         case 1:
